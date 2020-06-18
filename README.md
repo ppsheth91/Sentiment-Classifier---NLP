@@ -1,1 +1,1 @@
-# Sentiment-Classifier---NLP
+# Spam Classifier using Naive Bayes
